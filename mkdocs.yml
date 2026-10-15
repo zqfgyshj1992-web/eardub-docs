@@ -1,0 +1,7 @@
+site_name: EarDub Language Reference
+site_url: https://eardub.readthedocs.io/
+site_description: Every dubbing language and voice supported by EarDub, the real-time video dubbing extension.
+theme:
+  name: readthedocs
+nav:
+  - Languages and voices: index.md
