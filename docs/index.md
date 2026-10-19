@@ -1,10 +1,10 @@
 # EarDub language and voice reference
 
-*Updated October 15, 2026*
+*Updated October 19, 2026*
 
-[EarDub](https://www.eardub.com) is a browser extension for Chrome and Microsoft Edge that dubs online videos into another language while you watch. This page lists every dubbing language it supports, so you can check yours before you install it.
+[EarDub](https://www.eardub.com) is a Chrome and Edge extension that dubs YouTube and online courses into your language while you watch, with context-aware AI translation and a voice in sync with the speaker. This page lists every dubbing language it supports, so you can check yours before you install it.
 
-**In short:** EarDub dubs into **75 languages** with **300+ AI voices**. Every language has at least one male and one female voice, and several have regional accents. The list below has 80 entries because some languages come in more than one regional variant, such as English (US and UK) or Spanish (Mexico and Spain).
+**In short:** EarDub dubs into **75+ languages** with **300+ AI voices**. The list below reflects October 2026; new languages are added over time. Every language has at least one male and one female voice, and several have regional accents. The list below has 80 entries because some languages come in more than one regional variant, such as English (US and UK) or Spanish (Mexico and Spain).
 
 ## What "dubbing language" means here
 
@@ -111,18 +111,19 @@ Voice counts are given for the languages listed on the EarDub homepage. The othe
 
 ## Where dubbing works
 
-| Site | Videos with captions | Videos without captions |
-| --- | --- | --- |
-| YouTube, X, Bilibili, Gumroad | All plans, including Free | Basic and Pro plans |
-| Udemy, Coursera, other sites | All plans, including Free | Not supported |
+EarDub works on YouTube, online course sites such as Udemy and Coursera, and other video sites.
 
-The same 75 languages are available on every supported site.
+- Captioned videos (including auto-generated captions) work on every plan.
+- Paid plans can also dub videos without captions on supported sites such as YouTube.
+
+The same languages are available on every supported site.
 
 ## Limitations
 
 - Everyone in a video is read by the one voice you picked.
-- Very fast playback (above 1.5x) can make some sentences too long to fit.
-- On phones, EarDub only works in the Vivaldi browser on Android.
+- Not designed for live streams.
+- Desktop browsers (Chrome and Edge); there is no iPhone app.
+- Dubbing videos without captions needs a paid plan.
 
 ## FAQ
 
@@ -130,10 +131,10 @@ The same 75 languages are available on every supported site.
 Check the table above. If your language appears there, you can dub videos into it.
 
 **Can I dub a video into a language YouTube's auto-dubbing doesn't offer?**
-Yes. YouTube's automatic dubbing covers a shorter list of languages, and only on videos the creator has enabled. EarDub works on any captioned YouTube video in any of the languages above.
+Yes. YouTube's automatic dubbing covers a shorter list of languages, and only on videos the creator has enabled. EarDub works on captioned YouTube videos in any of the languages above, and paid plans can also dub videos without captions.
 
 **Are the voices male or female?**
 Both. Every language has at least one male and one female voice.
 
 **Is it free?**
-The free plan includes 30 minutes of dubbing a day with no credit card. Install it from the [Chrome Web Store](https://chromewebstore.google.com/detail/eardub-youtube-dubbing-vo/jmlcanhchdeaepjfgdefjmbfmlkfhpeh).
+A free plan is available, no credit card required; see [eardub.com/pricing](https://www.eardub.com/pricing) for current limits. Install it from the [Chrome Web Store](https://chromewebstore.google.com/detail/eardub-youtube-dubbing-vo/jmlcanhchdeaepjfgdefjmbfmlkfhpeh).
