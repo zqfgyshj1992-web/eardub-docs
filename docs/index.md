@@ -120,10 +120,8 @@ The same languages are available on every supported site.
 
 ## Limitations
 
-- Everyone in a video is read by the one voice you picked.
 - Not designed for live streams.
-- Desktop browsers (Chrome and Edge); there is no iPhone app.
-- Dubbing videos without captions needs a paid plan.
+- Captioned videos work on every plan; paid plans can also dub videos without captions on supported sites.
 
 ## FAQ
 
